@@ -18,6 +18,8 @@ When the signal is transferred from the PC to the phone, the value decreases by 
 
 After that, the traffic from the phone and the PC merges into one.
 
+If the patch was previously installed, it is removed.
+
 
 ### Can this negatively affect my device?
 Changing the TTL can **NOT** damage your modem or network card.
