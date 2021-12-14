@@ -1,4 +1,4 @@
-# Elegantly solves the tethering problem for some operators.
+# Solves the tethering problem for some operators.
 ## Just run setup.bat and restart your computer.
 ### Note that this script only hides the computer on which the patch was installed. If any other unhidden device is connected, the operator will see it
 
